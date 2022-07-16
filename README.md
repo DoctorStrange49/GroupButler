@@ -44,7 +44,9 @@ SUPERADMINS=[12345678]
 LOG_CHAT=12345678
 LOG_ADMIN=12345678
 ```
-
+<a href="https://go.deta.dev/deploy?repo=https://github.com/DoctorStrange49/GroupButler">
+    <img src="https://button.deta.dev/1/svg" alt="Deploy">
+</a>
 
 ## Setup (using Docker)
 Requirements:
